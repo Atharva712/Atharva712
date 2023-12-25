@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Atharva712
-- 👀 I’m interested in FrontEnd Web Development
-- 🌱 I’m completed learning JavaScript
-- 🌱I have started learning React
-- 💞️ I’m looking to collaborate on website designing part based on HTML5 and CSS
-- 📫 How to reach me atharvghodmare@gmail.com
+- 👋 Hi, I’m Atharva Ghodmare
+- 👀 I’m interested in Security Analyst Roles
+- 🌱 I have completed learning Ethical Hacking, Penetration Testing and Incident Reponse, Digital Forensics
+- 💞️ I’m looking to collaborate with security ansalysts and contribute in opensource projects
+- 📫 Reach me at atharvghodmare@gmail.com
 
 <!---
 Atharva712/Atharva712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
